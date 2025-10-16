@@ -27,7 +27,7 @@ public class Player : MonoBehaviour
 
         if (jump.IsPressed())
         {
-            Debug.Log("Jump");
+            Debug.Log("Jump");   
         }
         
     }
