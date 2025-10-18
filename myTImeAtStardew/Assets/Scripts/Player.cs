@@ -4,7 +4,7 @@ using UnityEngine.InputSystem;
 public class Player : MonoBehaviour
 {
     [SerializeField] GameObject player;
-    [SerializeField] PlayerCamera cam;
+    [SerializeField] Camera cam;
     [SerializeField] Transform playerPos;
     [SerializeField] InputActionAsset playerActions;
 
